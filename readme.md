@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">I love trying out new technologies and expanding my tech stack!</h3>
 
-- 🌱 I’m currently learning **Full-Stack Development and C++**
+- 🌱 I’m currently learning **C++  and Full-Stack Development**
 
 - 📫 Feel free to reach out at **mayankpallai@gmail.com**
 
