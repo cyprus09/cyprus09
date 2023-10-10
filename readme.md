@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">I love trying out new technologies and expanding my tech stack!</h3>
+<p align="left" style="font-size: 20px;">EEE/Y3 Undergrad at NTU, Singapore. Aspiring Software Developer</p>
 
 - 🌱 I’m currently learning **C++  and Full-Stack Development**
 
