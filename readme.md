@@ -5,7 +5,7 @@
 
 - 📫 Feel free to reach out at **mayankpallai@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/3j6wd892](https://tinyurl.com/3j6wd892)
+- 📄 Know about my experiences [resume link](https://tinyurl.com/8wrd8bdp)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
