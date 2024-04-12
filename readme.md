@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mayank</h1>
-<p align="left" style="font-size: 20px;">EEE/Y3 Undergrad at NTU, Singapore 🇸🇬 Aspiring Software Developer🧑‍💻</p>
+<h1 align="center">Hi, I'm Mayank☄️</h1>
+<p align="left" style="font-size: 20px;">-> 👨🏽‍🎓 Penultimate Year EEE Undergrad at NTU, Singapore 🇸🇬</p>
+<p>-> 🧑‍💻 Aspiring Software Developer</p>
 
-- 🌱 I’m currently learning **C++  and Full-Stack Development**
+-> 🌱 I’m currently learning **C++  and Full-Stack Development**
 
-- 📫 Feel free to reach out at **mayankpallai@gmail.com**
+-> 📫 Feel free to reach out at **mayankpallai@gmail.com**
 
 <!-- 📄 Know about my experiences [resume link](https://tinyurl.com/8wrd8bdp) -->
   
