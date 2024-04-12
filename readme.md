@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mayank☄️</h1>
 <p align="left" style="font-size: 20px;">-> 👨🏽‍🎓 Penultimate Year EEE Undergrad at NTU, Singapore 🇸🇬</p>
-<p>-> 🧑‍💻 Aspiring Software Developer</p>
+<p>-> 🧑🏽‍💻 Aspiring Software Developer</p>
 
 -> 🌱 I’m currently learning **C++  and Full-Stack Development**
 
